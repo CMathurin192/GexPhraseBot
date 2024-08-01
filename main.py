@@ -10,10 +10,10 @@ from phrase_constructor import phrase_constructor
 from replit import db
 
 #Caleb Mathurin 08/19/2020 - keys (generated 11/15/2023)
-CONSUMER_KEY = "gLuS9FRIwbUGWnVjqyvCcRcZn"
-CONSUMER_SECRET = "p2yJFR9k3OYWkiroFw2gfAm1amI8SYhHn9wYawuZReFC77ug5M"
-ACCESS_KEY = "1295901703250874369-mF3Iah6xP56Gj36utr8Kz4j7XH15qu"
-ACCESS_SECRET = "zPQyt3mc4cNdEsXIMrlGXgQCA0R3GJUmWK2TiiOlaQwjc"
+CONSUMER_KEY = "XXXX"
+CONSUMER_SECRET = "XXXX"
+ACCESS_KEY = "XXXX-XXXX"
+ACCESS_SECRET = "XXXX"
 
 #Caleb Mathurin 03/27/2024 - Authenticate to "X" (Elon's Twitter)
 client = tweepy.Client(consumer_key=CONSUMER_KEY, consumer_secret=CONSUMER_SECRET, access_token=ACCESS_KEY, access_token_secret=ACCESS_SECRET)
